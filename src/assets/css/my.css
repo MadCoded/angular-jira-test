@@ -1,0 +1,35 @@
+.cont {
+
+  border-radius: 15px;
+  border: 5px solid #969696;
+  box-shadow: 0 0 20px 5px #525151;
+
+  color: #c5c5c5;
+
+  padding: 2em;
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+}
+
+.issue {
+
+
+  border-radius: 15px;
+  border: 2px solid #969696;
+  box-shadow: 0 0 10px 2px #525151;
+
+  color: #c5c5c5;
+
+  padding: 0.5em;
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  margin-bottom:0.5em;
+
+  display: inline-block;
+  width: 100%;
+}
+
+
+

@@ -1,0 +1,58 @@
+{
+  "expand": "schema,names",
+  "startAt": 0,
+  "maxResults": 50,
+  "total": 5,
+  "issues": [
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "21522",
+      "self": "https://kodgemisi.atlassian.net/rest/api/2/issue/21522",
+      "key": "BASVURU-90",
+      "fields": {
+        "summary": "Event Planing",
+        "customfield_10008": "Event Planing"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "21519",
+      "self": "https://kodgemisi.atlassian.net/rest/api/2/issue/21519",
+      "key": "BASVURU-87",
+      "fields": {
+        "summary": "Job Application Review",
+        "customfield_10008": "Job Application Review"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "21512",
+      "self": "https://kodgemisi.atlassian.net/rest/api/2/issue/21512",
+      "key": "BASVURU-80",
+      "fields": {
+        "summary": "DASHBOARD",
+        "customfield_10008": "DASHBOARD"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "21505",
+      "self": "https://kodgemisi.atlassian.net/rest/api/2/issue/21505",
+      "key": "BASVURU-73",
+      "fields": {
+        "summary": "Applications menu",
+        "customfield_10008": "Applications menu"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "21435",
+      "self": "https://kodgemisi.atlassian.net/rest/api/2/issue/21435",
+      "key": "BASVURU-67",
+      "fields": {
+        "summary": "Comments Notifications",
+        "customfield_10008": "Comments Notifications"
+      }
+    }
+  ]
+}
